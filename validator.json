@@ -1,1 +1,6 @@
-{"name":"CryptoAware","ticker":"AWARE","discord":"705890894515142670","validation":"https://cryptoaware.io/validator.json"}
+{
+  "name": "CryptoAware",
+  "ticker": "AWARE",
+  "discord": "705890894515142670",
+  "validation": "https://cryptoaware.io/validator.json"
+}
