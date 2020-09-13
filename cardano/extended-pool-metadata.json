@@ -1,0 +1,32 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://cryptoaware.io/images/logo_64x64.png",
+    "url_png_logo": "https://cryptoaware.io/images/logo_160x160.png",
+    "location": "London, United Kingdom",
+    "social": {
+      "twitter_handle": "cryptoaware_io",
+      "telegram_handle": "cryptoaware_group",
+      "instagram_handle": "",
+      "youtube_handle": "",
+      "github_handle": "cryptoaware",
+      "discord_handle": "751132316155510794",
+    },
+    "company": {
+      "name": "",
+      "city": "",
+      "country": ""
+    },
+    "about": {
+      "server": "Cryptoaware.io takes staking to the next level",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "my-pool-ids": {
+    "0": "317e5eb2c7ab9dc7e95a3fb39fd6586fd675c78d57960d0f0fe7c252"
+  },
+  "when-satured-then-recommend": {},
+  "telegram-admin-handle": {
+    "0": "cryptoaware_io"
+  }
+}

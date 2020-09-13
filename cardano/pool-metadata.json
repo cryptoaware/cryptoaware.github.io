@@ -1,0 +1,7 @@
+{
+  "name": "CryptoAware Stake Pool",
+  "description": "Stake with confidence and monitor your staking on our app",
+  "ticker": "AWARE",
+  "homepage": "https://cryptoaware.io/cardano",
+  "extended": "https://cryptoaware.io/cardano/extended-pool-metadata.json"
+}
